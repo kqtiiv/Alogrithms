@@ -1,4 +1,4 @@
-// leetcode 886
+package search // leetcode 886
 
 fun possibleBipartition(
     n: Int,

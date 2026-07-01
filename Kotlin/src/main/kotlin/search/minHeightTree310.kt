@@ -1,4 +1,4 @@
-// leetcode 310
+package search // leetcode 310
 
 fun findMinHeightTrees(
     n: Int,

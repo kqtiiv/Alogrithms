@@ -1,4 +1,4 @@
-// leetcode 802
+package search // leetcode 802
 
 fun eventualSafeNodes(graph: Array<IntArray>): List<Int> {
     val safeNodes = mutableListOf<Int>()
